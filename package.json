@@ -22,7 +22,7 @@
     "extract-text-webpack-plugin": "^2.1.2",
     "file-loader": "^0.11.2",
     "lodash": "^4.17.15",
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "normalize.css": "^7.0.0",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.18.2",
